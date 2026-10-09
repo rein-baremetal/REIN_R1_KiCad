@@ -53,4 +53,4 @@ You can participate using either **KiCad PCB Editor** or **Freerouting**:
 ### Option A: Interactive Routing in KiCad
 1. Clone or fork this repository:
    ```bash
-   git clone [https://github.com/rein-baremetal/REIN_R1_KiCad.git](https://github.com/rein-baremetal/REIN_R1_KiCad.git)
+   git clone https://github.com/rein-baremetal/REIN_R1_KiCad.git
