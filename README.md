@@ -1,4 +1,5 @@
 # REIN_R1 Hardware Design (KiCad 8.0+)
+<img width="935" height="1320" alt="REIN_R1_placement_preview" src="https://github.com/user-attachments/assets/b3f194d9-21f2-45cf-b91e-56f4fdc26fa6" />
 
 Welcome to the **REIN_R1** open-source PCB hardware project, part of the [REIN Baremetal](https://github.com/rein-baremetal) organization!
 
