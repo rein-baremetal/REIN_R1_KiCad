@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "REIN")(type "KiCad")(uri "${KIPRJMOD}/REIN.pretty")(options "")(descr "REIN R1 embedded footprints"))
+)
